@@ -1,0 +1,11 @@
+Name,Age,Gender,Grade,City
+John,20,M,85,New York
+Anna,22,F,90,London
+Mike,21,M,78,San Francisco
+Chris,19,M,92,Boston
+Sara,,F,88,Los Angeles
+Alex,23,M,76,Chicago
+Linda,21,F,94,Houston
+James,20,M,,Miami
+Laura,22,F,89,Seattle
+Tom,20,M,82,Denver

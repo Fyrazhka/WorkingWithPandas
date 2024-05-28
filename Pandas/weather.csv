@@ -1,0 +1,17 @@
+Date,City,Temperature,Humidity
+2023-01-01,New York,5,55
+2023-01-01,London,7,65
+2023-01-01,San Francisco,12,60
+2023-01-01,Boston,-2,50
+2023-01-02,New York,6,53
+2023-01-02,London,8,67
+2023-01-02,San Francisco,13,58
+2023-01-02,Boston,0,52
+2023-01-03,New York,4,50
+2023-01-03,London,9,66
+2023-01-03,San Francisco,11,57
+2023-01-03,Boston,-1,51
+2023-01-04,New York,3,54
+2023-01-04,London,6,68
+2023-01-04,San Francisco,10,59
+2023-01-04,Boston,-3,53
